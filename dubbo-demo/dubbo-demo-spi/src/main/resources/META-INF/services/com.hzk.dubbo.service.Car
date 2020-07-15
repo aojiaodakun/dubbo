@@ -1,0 +1,3 @@
+black=com.hzk.dubbo.impl.BlackCar
+red=com.hzk.dubbo.impl.RedCar
+com.hzk.dubbo.impl.CarWrapper
